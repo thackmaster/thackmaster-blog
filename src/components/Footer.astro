@@ -18,7 +18,11 @@ import SocialIcons from './SocialIcons.astro'
             underline>Wesley Thacker</Link
           >. All rights reserved.
       </span>
-      <!--<Separator orientation="vertical" className="hidden h-4! sm:block" />-->
+        <Separator orientation="vertical" className="hidden h-4! sm:block" />
+      <span>
+        <iframe class="dark:hidden" src="https://status.wesleythacker.com/badge?theme=light" width="250" height="30" style="color-scheme: normal"></iframe>
+        <iframe class="hidden dark:block" src="https://status.wesleythacker.com/badge?theme=dark" width="250" height="30" style="color-scheme: normal"></iframe>
+      </span>
     </div>
     <SocialIcons links={SOCIAL_LINKS} />
   </div>

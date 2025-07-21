@@ -16,11 +16,70 @@ import Layout from '@/layouts/Layout.astro'
   <section>
     <div class="min-w-full">
       <div class="prose mb-8">
-        <p class="mb-0">
-          My Setup
-
-          Don't worry, this will be filled in soon enough.
-        </p>
+        <h2>My Setup</h2>
+          <div class="mb-0">
+            <p>
+              My homelab isn't the most glamorous, but it gets the job done, which is ultimately what matters. A lot of my hardware was rescued or bought from my local community. Let's go over what all is there.
+            </p>
+            <h3>Compute</h3>
+              <ul>
+                <li>2 HP EliteDesk 800 G2 (repurposed from a local school district)</li>
+                  <ul>
+                    <li>Intel Core i5-6400T @ 2.2 GHz, 16GB RAM, 256GB SSD</li>
+                    <li>Intel Core i5-6600T @ 2.7 GHz, 8GB RAM, 256GB SSD</li>
+                  </ul>
+                <li>1 Raspberry Pi 5B: 4GB RAM, 32GB SD Card</li>
+                <li>1 Dell Optiplex 5050: Intel Core i5-7500 @ 3.4 GHz, 16GB RAM, 256GB SSD</li>
+              </ul>
+              <p>
+                Almost everything in my homelab runs Debian with the exception of one of my HPs. It's running RedHat on a developer license for tinkering purposes.
+              </p>
+            <h3>Storage</h3>
+              <ul>
+                <li>Synology NAS DS920+</li>
+                <ul>
+                  <li>Intel Celeron J4125, 8GB RAM, 2 14TB drives in SHR, 2 4TB drives in RAID1</li>
+                </ul>
+              </ul>
+              <p>
+                Pretty much everything within the homelab is stored on my NAS with nightly backups to Backblaze.
+              </p>
+            <h3>Networking</h3>
+              <ul>
+                <li>UniFi Dream Machine Special Edition</li>
+                <li>UniFi Switch - Standard PoE 24</li>
+                <li>UniFi U6 Mesh Wireless AP (just the one for now)</li>
+                <li>2 UniFi Flex Mini's (desk and entertainment areas)</li>
+              </ul>
+          </div>
+        <div class="mb-0">
+          <h2>Containers</h2>
+            <p>
+              Below is an extensive list of what I host within my homelab. This may not be 100% up-to-date at any given time since it's not well documented (I'm working on it). Almost everything runs in Docker, and I stored my compose files in a publicly accessible GitHub. You can find it on my GitHub page.
+            </p>
+            <ul>
+              <li><a href="https://beszel.dev">Beszel</a></li>
+              <li><a href="https://bookstackapp.com">Bookstack</a></li>
+              <li><a href="https://hub.docker.com/r/cloudflare/cloudflared">Cloudflared</a></li>
+              <li><a href="https://github.com/fail2ban/fail2ban">Fail2Ban</a></li>
+              <li><a href="https://gitea.com">Gitea</a></li>
+              <li><a href="https://globalping.io">Globalping</a></li>
+              <li><a href="https://github.com/qdm12/gluetun">Gluetun</a></li>
+              <li><a href="https://homebox.software/en/">HomeBox</a></li>
+              <li><a href="https://immich.app">Immich</a></li>
+              <li><a href="https://overseerr.dev">Overseerr</a></li>
+              <li><a href="https://plex.tv">Plex</a></li>
+              <li><a href="https://www.portainer.io">Portainer</a></li>
+              <li><a href="https://prowlarr.com">Prowlarr</a></li>
+              <li><a href="https://www.qbittorrent.org">qBittorrent</a></li>
+              <li><a href="https://radarr.video">Radarr</a></li>
+              <li><a href="https://sabnzbd.org">SABnzbd</a></li>
+              <li><a href="https://sonarr.tv">Sonarr</a></li>
+              <li><a href="https://github.com/TriliumNext/Trilium">Trilium</a></li>
+              <li><a href="https://tautulli.com">Tautulli</a></li>
+              <li><a href="https://containrrr.dev/watchtower/">Watchtower</a></li>
+            </ul>
+        </div>
       </div>
       <!--
         <h2 class="mb-4 text-2xl font-medium">Example Projects Listing</h2>

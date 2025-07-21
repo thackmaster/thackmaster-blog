@@ -1,22 +1,22 @@
 ---
 import Breadcrumbs from '@/components/Breadcrumbs.astro'
-import Link from '@/components/Link.astro'
+//import Link from '@/components/Link.astro'
 import PageHead from '@/components/PageHead.astro'
-import ProjectCard from '@/components/ProjectCard.astro'
+//import ProjectCard from '@/components/ProjectCard.astro'
 import Layout from '@/layouts/Layout.astro'
-import { getAllProjects } from '@/lib/data-utils'
+//import { getAllProjects } from '@/lib/data-utils'
 
-const projects = await getAllProjects()
+//const projects = await getAllProjects()
 ---
 
-<Layout>
+<Layout class="max-w-3xl">
   <PageHead slot="head" title="About" />
   <Breadcrumbs items={[{ label: 'About', icon: 'lucide:info' }]} />
 
   <section>
     <div class="min-w-full">
       <div class="prose mb-8">
-        <p class="mb-4">
+        <p class="mb-0">
           My Setup
 
           Don't worry, this will be filled in soon enough.

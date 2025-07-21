@@ -66,8 +66,7 @@
         "files": "*.astro",
         "options": {
           "parser": "astro"
-        },
-        "tailwindcss": ""
+        }
       }
     ]
   }

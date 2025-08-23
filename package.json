@@ -11,7 +11,17 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.35.2",
-    "astro": "^5.6.1",
-    "sharp": "^0.34.2"
+    "@fontsource/montserrat": "^5.2.6",
+    "@fontsource/nunito": "^5.2.6",
+    "@lorenzo_lewis/starlight-utils": "^0.3.2",
+    "astro": "^5.13.3",
+    "sharp": "^0.34.2",
+    "starlight": "^0.3.9",
+    "starlight-blog": "^0.24.0",
+    "starlight-giscus": "^0.6.1",
+    "starlight-image-zoom": "^0.13.0",
+    "starlight-links-validator": "^0.17.1",
+    "starlight-theme-galaxy": "^0.2.0",
+    "starlight-theme-rapide": "^0.5.1"
   }
 }

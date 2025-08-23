@@ -1,0 +1,62 @@
+---
+title: 'Part 1: Is It Needed?'
+date: 2024-03-24
+lastUpdated: 2025-08-23
+tags:
+    - cloud computing
+    - azure
+    - aws
+    - google cloud
+---
+
+The tech world is always changing, new products, new methods, new talent. Most of the time, these changes are beneficial to sysadmin's. But there are times when it can be a detriment. Now, that's not to say that those detriment times are bad, they may just have risks or costs that outweigh the benefits at that point in time. The beauty of the ever-changing landscape of tech is that there is always something newer, bigger, and better than what came before it. So in this part, I'd like to talk about when sysadmin's should consider the move to the cloud, the things to consider when moving, what to move, and how to move it. One of the better things about the cloud is the ability to keep on-premises services running while you transfer or rebuild them in the cloud environment.
+
+{/* excerpt */}
+
+## Starting Out
+Consider the six W's (well, 5 W's and 1 H): Who, What, When, Where, Why, and How. I like to rearrange these differently to better fit a typical sysadmin's train of thought: Why, What, Who, Where, How, and When.
+- Why are we moving to the cloud?
+- What are we moving?
+- Who are we moving (think department-size like finance or HR, not individual users) / who will be affected by the move?
+- Where are we moving to?
+- How are we facilitating this move/How are we making it happen?
+- When are we moving?
+
+Let's answer these questions ourselves. I won't be using my actual employer as an example, so for the sake of this series, let's make up a company.
+
+Reach Out, Inc. is a company that has two main offices, one in Trinidad, Colorado, and the other in Jonesville, Indiana. Reach Out specializes in publishing, and is focused on assisting local newspapers that are struggling to maintain their reader-base. Reach Out leaderships wants to expand the reach of these local papers by creating a unique website for each one, moving all operations into the cloud to reduce multiple bottlenecks each paper currently has, and utilizing Reach Out's writers to assist in refinement of articles. Their client base consists of fifty-three different newspapers stretching all across the country. You are a sysadmin at Reach Out and currently use Azure. Because of this, you have determined that the easiest way to manage each of these clients is for each to have their own Azure tenant that will tie into your tenant for resource access.
+
+With that scenario in mind, let's get started.
+
+## Why
+We already established the "Why" in the scenario, but let's go over how we reached that conclusion.
+
+Each of these clients are geographically separated, spanning across the country. It would be unwise to expect the client (and their readers) to reach across the country to publish and read articles. Instead, we would want to set each of the Azure tenants for our clients to be as close as possible to the area they serve. It would be unwise to have them reach across the country, especially if that particular region has an issue (think of the AWS East outages in the past few years). If their closest region isn't having an issue, neither should they.
+
+Additionally, since they are a publishing company, they may be uploading lots of photos for us in articles, ads, etc. It wouldn't make sense for them to spend more time waiting for the upload to complete because it's being sent farther than necessary.
+
+## What
+We're moving almost their entire operation to the cloud, so we'll want to make sure that our provider is able to offer everything we're going to need. Things like file storage, web hosting, emails, payroll, specialty publishing programs, among others.
+
+## Who
+This is not going to affect just each papers staff, this is going to also affect their readers. We want this move to go as smoothly as possible so as to negatively affect those that make the newspaper successful. Simply put, we only want the readers to hear about the new website.
+
+## Where
+We've already decided we're going to be using Azure. But where are we going to be storing their assets? Their tenants? Remember, we want to use the closest region to the area that they serve so that everything stays close — no need to reach across the country when you don't have to.
+
+## How
+How is this move going to happen? Well, that depends on how each of these struggling newspapers currently conducts their operations. Some might use a local file server, others might use shared personal Google Drive folders. Some might not even do that, saving everything to their computer's desktop and using it for their specific articles. No matter the case, we need to standardize the process across each of the clients.
+
+Some other concerns we should be concerned about are the difference between them all and how we standardize. Some work in a dedicated building, others may work in a shared office space. Some are bigger than others. Some have wireless access, some are only Ethernet. Some have fiber, some are on copper-wiring. Some have a proper network setup, others have a nest of wires that you scratch your head at wondering how it worked in the first place. We need to accommodate for each of these variants and standardize them. While we're only focusing on establishing their online presence here, we still need to keep that on the back burner to help prevent anything from falling though the cracks.
+
+## When
+How fast are we needing/expecting each of these changes to be made? Can we take some time for logistics or are we trying to accomplish the fastest cloud migration in history? These time factors will also play a role in the time we have to solve the problems presented. It can also give us time (or take time away) to ask around and refine our knowledge set so we know we're doing the best we can for the situation at hand.
+
+## Is it needed?
+After asking our questions, we still need to go back to our original question: is it needed? Do the benefits in this situation outweigh the costs?
+
+The answer here is yes. Moving to the cloud to establish their online presence isn't completely necessary in this case, but we're also introducing the standardization of their file storage and even introducing email to some that might not have it. These will greatly reduce time wasted by the staff who should be focused on writing the article, not basic web design to make their article show up correctly on all devices or worrying about where their photo was saved. Plus, we can add in automations to publish certain articles to their social medias to help improve that online presence.
+
+All-in-all, this will end up as a win for each of these clients for Reach Out. The establish a website with all of their articles on it, a file storage solution that will allow them to all be on the same page, and introducing email to a few that didn't have it before. While it might be a little more expensive than before, the risks are outweighed by the benefits. After consulting with each of them, all fifty-three are on-board with the new system proposal and want to move as soon as possible. Now your expertise as a sysadmin comes into play.
+
+In the next part, we'll go over the analysis of each client and determining the best way to move their on-premises operations to the cloud while keeping costs to a minimum.

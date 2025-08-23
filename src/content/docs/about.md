@@ -1,6 +1,7 @@
 ---
 title: About
 giscus: false
+template: splash
 ---
 
 ## Resources

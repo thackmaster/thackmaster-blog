@@ -23,7 +23,7 @@ export default defineConfig({
 				'@fontsource/montserrat/400.css'
 			],
 			editLink: { 
-				baseUrl: 'https://github.com/thackmaster/thackmaster-blog/edit/main/docs' 
+				baseUrl: 'https://github.com/thackmaster/thackmaster-blog/edit/main' 
 			},
 			plugins: [
 				starlightImageZoom(),

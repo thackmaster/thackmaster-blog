@@ -10,6 +10,7 @@ import starlightLinksValidator from 'starlight-links-validator';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://thackmaster.com',
 	server: {
 		host: '0.0.0.0',
 		port: 4321
@@ -25,6 +26,11 @@ export default defineConfig({
 			editLink: { 
 				baseUrl: 'https://github.com/thackmaster/thackmaster-blog/edit/main' 
 			},
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/thackmaster' },
+				{ icon: 'linkedin', label: 'LinkedIn', href: 'https://linkedin.com/in/wesley-thacker' },
+				{ icon: 'rss', label: 'RSS', href: '/blog/rss.xml' },
+			],
 			plugins: [
 				starlightImageZoom(),
 				//starlightThemeRapide(),

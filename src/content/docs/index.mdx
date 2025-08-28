@@ -24,3 +24,19 @@ hero:
       icon: external
       variant: minimal
 ---
+
+import { CardGrid, Card } from '@astrojs/starlight/components';
+import BuildDate from '../../components/BuildDate.astro'
+
+<CardGrid stagger>
+	<Card title="Site built" icon="rocket">
+		<BuildDate />
+	</Card>
+  <Card title="Powered by Astro" icon="open-book">
+		Open-source, static-site generator and one of my favorite!
+	</Card>
+  <Card title="Themed with Starlight Galaxy" icon="puzzle">
+    Built on top of the beloved documentation theme "Starlight", Starlight Galaxy brings a new look and feel.
+  </Card>
+</CardGrid>
+

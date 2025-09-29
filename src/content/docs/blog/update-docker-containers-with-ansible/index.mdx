@@ -1,6 +1,7 @@
 ---
 title: Update Docker containers with Ansible
 date: 2025-08-23
+lastUpdated: 2025-09-28
 tags:
     - ansible
     - docker
@@ -374,6 +375,30 @@ From here, everything was pretty straightforward! Pull down the container, stop 
 
 ## Conclusion
 And there you have it! While this may not be the best practice way to orchestrate container updates, it definitely simplifies the update process if you have multiple hosts running the same container (cloudflared, portainer, etc). I always try to publish the files I use, which you can find on my GitHub profile or below in the [References](#references) section.
+
+---
+
+## Updates
+I've made several changes to the playbook that this article was written about, and while it still holds up true, there are some additional pieces that were added in after testing it on a few other Docker containers and breaking them in the process.
+
+### Error handling
+First, I added in some error handling and made the script a bit more dynamic so that it can be used against any container. This is done through the `container_name` variable that is asked to the user before any additional information is gathered. It's relatively lightweight but doesn't hurt.
+
+```yml
+ - name: Fail if the container doesn't exist
+      fail:
+        msg: "Container '{{ container_name }}' not found on host {{ inventory_hostname }}"
+      when: container_info is not defined or
+            container_info.container is not defined or
+            container_info.container is none
+```
+
+### Environment variables
+Previously, I failed to capture any environment variables about the container. This did cause several issues when I was testing it. I capture the generic environment variables through the `container_info.container.Config.Env` function and store it for the docker create command with the simple `env: "{{ env_vars }}"`
+
+I do this same sort of concept for "network_mode", "command_args", and "entrypoint" (one you wouldn't think about until docker containers start failing randomly when running the playbook). There is a little bit of jazz with these later ones since they aren't always set, using the `default([])` function. I did have to use `default(omit)` for entrypoint since it doesn't like an empty string. But that's the fun of the little quirks from Docker.
+
+All of this was updated in the playbook referenced below.
 
 ## References
 - [More about `dict2items`](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/dict2items_filter.html)

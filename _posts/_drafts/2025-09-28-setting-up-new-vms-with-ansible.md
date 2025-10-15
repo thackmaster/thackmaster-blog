@@ -1,5 +1,5 @@
 ---
-title: Part 1 - Setting up new VMs with Ansible
+title: Setting up new VMs with Ansible
 date: 2025-09-28
 tags: [ansible, vm]
 ---

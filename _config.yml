@@ -120,9 +120,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: thackmaster/thackmaster-blog
-    repo_id: R_kgDOOrbWNw
+    repo_id: R_kgDOQCttXA
     category: Comments
-    category_id: DIC_kwDOOrbWN84CuOeI
+    category_id: DIC_kwDOQCttXM4CwqNa
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'

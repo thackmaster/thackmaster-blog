@@ -186,6 +186,7 @@ defaults:
       path: _drafts
     values:
       comments: false
+      drafts: true
   - scope:
       path: ""
       type: tabs # see `site.collections`

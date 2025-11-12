@@ -6,8 +6,10 @@ date: 2025-04-25
 last_modified_at: 2025-08-23
 categories: [Microsoft]
 tags: [intune, cloud computing]
+media_subpath: /assets/img/using-chocolatey-to-manage-endpoint-apps-with-intune/
 image:
-  path: https://images.unsplash.com/photo-1519389950473-47ba0277781c
+  path: splash.jpeg
+  #https://images.unsplash.com/photo-1519389950473-47ba0277781c
   alt: Image from Marvin Meyer (@marvelous) via Unsplash
 ---
 
@@ -21,11 +23,11 @@ Once acquired, head to Intune > Apps > All Apps. Click "Create".
 
 In the "App type" dropdown, select "Line-of-business app".
 
-![](../assets/img/2025-04-25-using-chocolatey-to-manage-endpoint-apps-with-intune/lob-app.png)
+![](lob-app.png)
 
 Title the app, fill in the description, and list the publisher.
 
-![](../assets/img/2025-04-25-using-chocolatey-to-manage-endpoint-apps-with-intune/app-details.png)
+![](app-details.png)
 
 Assign and deploy Chocolatey. That's it!
 
@@ -87,12 +89,12 @@ foreach($program in $localprograms) {
 
 Save these two files in the same folder. Then, using the [IntuneWinWrapTool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool), wrap this folder.
 
-![](../assets/img/2025-04-25-using-chocolatey-to-manage-endpoint-apps-with-intune/winapputil.png)
+![](winapputil.png)
 
 ## Step 3: Deploy an application
 With your new `.intunewin` file, head to Intune > Apps > All apps. Select "Create", then "Windows app (Win32)".
 
-![](../assets/img/2025-04-25-using-chocolatey-to-manage-endpoint-apps-with-intune/winapp32.png)
+![](winapp32.png)
 
 Fill out the application details as you normally would. Use `powershell.exe -executionpolicy bypass .\install.ps1` and `powershell.exe -executionpolicy bypass .\uninstall.ps1` for your install and uninstall commands.
 

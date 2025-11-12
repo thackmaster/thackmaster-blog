@@ -1,0 +1,84 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+html,
+html:not([data-mode]) {
+  --link-color: #1e9000;
+  --link-underline-color: #2acb00;
+  --link-hover-color: #1a5c0b;
+  --toc-highlight: var(--link-color);
+  --btn-share-hover-color: var(--link-color);
+  --sidebar-hover-bg: #eeffe4;
+  --sidebar-active-color: var(--link-color);
+  --bs-nav-link-hover-color: var(--link-color);
+}
+
+html[data-mode='light'] {
+  --link-color: #1e9000;
+  --link-underline-color: #2acb00;
+  --link-hover-color: #1a5c0b;
+  --toc-highlight: var(--link-color);
+  --btn-share-hover-color: var(--link-color);
+  --sidebar-hover-bg: #eeffe4;
+  --sidebar-active-color: var(--link-color);
+  --bs-nav-link-hover-color: var(--link-color);
+}
+
+html[data-mode='dark'] {
+  --link-color: #1e9000;
+  --link-underline-color: #1b6d07;
+  --link-hover-color: #36e500;
+  --toc-highlight: #26b700;
+  --btn-share-hover-color: var(--link-color);
+  --sidebar-hover-bg: #eeffe4;
+  --sidebar-active-color: var(--link-color);
+  --bs-nav-link-hover-color: var(--link-color);
+}
+
+#toc-wrapper ul .is-active-link {
+  color: var(--toc-highlight) !important;
+}
+
+#sidebar a:hover {
+  color: var(--link-color);
+}
+
+.btn:hover {
+  &:not(#copy-link):not(#mode-toggle) {
+    background-color: #1e9000 !important;
+  }
+}
+
+.btn.btn-outline-primary {
+  &:not(.disabled):hover {
+    border-color: var(--link-color) !important;
+  }
+}
+
+#page-category a:hover,
+#page-tag a:hover,
+#access-lastmod a:hover,
+.post-tail-wrapper .license-wrapper > a:hover,
+#search-results a:hover,
+footer a:hover,
+#topbar #breadcrumb a:hover,
+.content a:not(.img-link):hover,
+.post-meta a:not([class]):hover,
+a.hover {
+  &:not(#back-to-top) {
+    color: var(--link-hover-color) !important;
+    text-decoration: none;
+    &:not(.tag):hover {
+      border-bottom-color: var(--link-underline-color) !important;
+    }
+  }
+}

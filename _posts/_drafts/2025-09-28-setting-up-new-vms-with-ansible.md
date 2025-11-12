@@ -1,7 +1,15 @@
 ---
 title: Setting up new VMs with Ansible
+description:
+author: thackmaster
 date: 2025-09-28
+last_modified_at:
+categories: []
 tags: [ansible, vm]
+media_subpath:
+image:
+  path:
+  alt: Image from ??? (@???) via Unsplash
 ---
 
 The day started like normal, a new admin VM needed created and assigned to the user. Easy enough, we have templates for that. At least, that's what I thought. I did eventually solve the issue and -- without going into too much detail -- turned out to have been a simple checkbox I had missed along the way.

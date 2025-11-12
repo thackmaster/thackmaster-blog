@@ -6,8 +6,10 @@ date: 2025-07-20
 last_modified_at: 2025-08-23
 categories: [Homelab]
 tags: [automation, orchestration, ansible]
+media_subpath: /assets/img/getting-started-with-ansible/
 image:
-  path: https://images.unsplash.com/photo-1520869562399-e772f042f422
+  path: splash.jpeg
+  #https://images.unsplash.com/photo-1520869562399-e772f042f422
   alt: Image from Thomas Jensen (@thomasjsn) via Unsplash
 ---
 
@@ -26,9 +28,9 @@ I'll be using [VirtualBox](https://www.virtualbox.org) and [Debian 12](https://w
 #### Create a host VM
 Below are the settings I used for my VM. You can copy these exactly or deviate as you wish. 
 
-![](../assets/img/2025-07-20-getting-started-with-ansible/create-vm.png)
+![](create-vm.png)
 
-![](../assets/img/2025-07-20-getting-started-with-ansible/create-vm-2.png)
+![](create-vm-2.png)
 
 You can either repeat these steps for your second virtual machine, or you can stop the VM you just created and clone it. You'll need to change the hostname if you do this so we don't run into issue later on.
 
@@ -46,15 +48,15 @@ I've chosen to name my machines "ansible-host" and "ansible-node" respectively.
 #### Connecting to Network
 Your machines have been operating under the guise of your physical computer's network. We need to designate that these machines are separate from the physical host. We'll do this by creating a network in our hypervisor. In VirtualBox, we can do this by going to **File** > **Tools** > **Network Manager**. Go to the tab "NAT Networks". Here, I've taken the default IP subnet mask of /24 VirtualBox gave me and shrunk it down to a /29 subnet. I'm a big fan of making networks as small as possible, but this is completely optional. You can learn more about subnets [here](https://www.calculator.net/ip-subnet-calculator.html).
 
-![](../assets/img/2025-07-20-getting-started-with-ansible/network-details.png)
+![](network-details.png)
 
 Now we need to attach the machines to this new network we've created. We'll right-click our machines in the VirtualBox sidebar and select "Settings".
 
-![](../assets/img/2025-07-20-getting-started-with-ansible/network-attach-1.png)
+![](network-attach-1.png)
 
 Select "Expert" at the top, then select "Network" in the sidebar. Change it from "Attached to: NAT" to "Attached to: NAT Network". Click "OK".
 
-![](../assets/img/2025-07-20-getting-started-with-ansible/network-attach-2.png)
+![](network-attach-2.png)
 
 #### Static IP
 I've opted to set my Ansible host with a static IP and leave my Ansible node to grab an address from DHCP. To do this, sign in to your host machine with the root user and enter the command:
@@ -245,7 +247,7 @@ ansible-playbook playbook.yaml
 
 You should have the following appear in your console. This indicates that the playbook is running.
 
-![](../assets/img/2025-07-20-getting-started-with-ansible/run.png)
+![](run.png)
 
 > If we hadn't included our config file, our execution file would be the following
 > 
@@ -258,7 +260,7 @@ You should have the following appear in your console. This indicates that the pl
 
 Once it is complete, you'll be displayed the following:
 
-![](../assets/img/2025-07-20-getting-started-with-ansible/run-2.png)
+![](run-2.png)
 
 Congrats! You've just created and run your first Ansible playbook. Ansible is used across the world in all sorts of use cases. Simple updates like this are very common, and of course configuring brand new machines.
 

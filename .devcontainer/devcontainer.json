@@ -3,6 +3,7 @@
   "image": "mcr.microsoft.com/devcontainers/jekyll:3.3-bookworm",
   "onCreateCommand": "git config --global --add safe.directory ${containerWorkspaceFolder}",
   "postCreateCommand": "bash .devcontainer/post-create.sh",
+  "postStartCommand": "nohup bash -c 'bundle exec jekyll serve &'",
   "customizations": {
     "vscode": {
       "settings": {

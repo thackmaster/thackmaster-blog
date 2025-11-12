@@ -4,6 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+## About the site
+From homelab to enterprise, SaaS & IaaS to bare-metal, and everything in-between, this blog explores the wonders of hosting your own services, allowing others to use those services securely, and other odds and ends that come with the sysadmin journey.
+
+-----
+
 ## Resources
 Site generator: [Jekyll](https://jekyllrb.com) (using the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme)
 

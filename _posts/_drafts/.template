@@ -6,9 +6,10 @@ date:
 last_modified_at:
 categories: []
 tags: []
-media_subpath:
+media_subpath: /assets/img/path/
 image:
-  path:
+  path: splash.extension
+  #link
   alt: Image from ??? (@???) via Unsplash
 ---
 

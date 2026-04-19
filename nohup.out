@@ -84365,3 +84365,2063 @@ Configuration file: /workspaces/thackmaster-blog/_config.yml
                     
       Regenerating: 1 file(s) changed at 2025-11-04 19:20:19
                     nohup.out
+Configuration file: /workspaces/thackmaster-blog/_config.yml
+            Source: /workspaces/thackmaster-blog
+       Destination: /workspaces/thackmaster-blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 1.836 seconds.
+ Auto-regeneration: enabled for '/workspaces/thackmaster-blog'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2025-11-16 11:09:32
+                    nohup.out
+                    ...done in 0.68225475 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-16 11:09:33
+                    nohup.out
+                    ...done in 0.514963709 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-16 11:09:34
+                    nohup.out
+Configuration file: /workspaces/thackmaster-blog/_config.yml
+            Source: /workspaces/thackmaster-blog
+       Destination: /workspaces/thackmaster-blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.69 seconds.
+ Auto-regeneration: enabled for '/workspaces/thackmaster-blog'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:16
+                    nohup.out
+                    ...done in 0.388072792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:17
+                    nohup.out
+                    ...done in 0.300330459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:17
+                    nohup.out
+                    ...done in 0.233193791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:18
+                    nohup.out
+                    ...done in 0.229002917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:18
+                    nohup.out
+                    ...done in 0.2288225 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:18
+                    nohup.out
+                    ...done in 0.429562417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:19
+                    nohup.out
+                    ...done in 0.299652875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:19
+                    nohup.out
+                    ...done in 0.269042875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:20
+                    nohup.out
+                    ...done in 0.309674375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:20
+                    nohup.out
+                    ...done in 0.338665166 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:20
+                    nohup.out
+                    ...done in 0.284223126 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:21
+                    nohup.out
+                    ...done in 0.251551083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:21
+                    nohup.out
+                    ...done in 0.213592 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:21
+                    nohup.out
+                    ...done in 0.224697292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:22
+                    nohup.out
+                    ...done in 0.280962292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:22
+                    nohup.out
+                    ...done in 0.224129541 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:23
+                    nohup.out
+                    ...done in 0.30627425 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:23
+                    nohup.out
+                    ...done in 0.217762 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:23
+                    nohup.out
+                    ...done in 0.2570125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:24
+                    nohup.out
+                    ...done in 0.246248291 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:24
+                    nohup.out
+                    ...done in 0.230378486 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:24
+                    nohup.out
+                    ...done in 0.211213791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:25
+                    nohup.out
+                    ...done in 0.256552834 seconds.
+                    
+      Regenerating: 3 file(s) changed at 2025-11-17 18:32:25
+                    nohup.out
+                    .ruby-lsp/last_updated
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.273712083 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-11-17 18:32:25
+                    nohup.out
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.265790751 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:26
+                    nohup.out
+                    ...done in 0.242249125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:26
+                    nohup.out
+                    ...done in 0.221102875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:26
+                    nohup.out
+                    ...done in 0.274636625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:27
+                    nohup.out
+                    ...done in 0.309787708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:27
+                    nohup.out
+                    ...done in 0.315874875 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-11-17 18:32:28
+                    nohup.out
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.367507959 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:28
+                    nohup.out
+                    ...done in 0.215626792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:28
+                    nohup.out
+                    ...done in 0.315457334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:29
+                    nohup.out
+                    ...done in 0.309994792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:29
+                    nohup.out
+                    ...done in 0.251931084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:30
+                    nohup.out
+                    ...done in 0.231827667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:30
+                    nohup.out
+                    ...done in 0.229712125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:30
+                    nohup.out
+                    ...done in 0.206352958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:30
+                    nohup.out
+                    ...done in 0.197889708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:31
+                    nohup.out
+                    ...done in 0.206767751 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:31
+                    nohup.out
+                    ...done in 0.225374916 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:31
+                    nohup.out
+                    ...done in 0.199082042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:32
+                    nohup.out
+                    ...done in 0.21749325 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:32
+                    nohup.out
+                    ...done in 0.264980125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:32
+                    nohup.out
+                    ...done in 0.226981084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:33
+                    nohup.out
+                    ...done in 0.205343416 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:33
+                    nohup.out
+                    ...done in 0.209064917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:33
+                    nohup.out
+                    ...done in 0.204404917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:34
+                    nohup.out
+                    ...done in 0.248915334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:34
+                    nohup.out
+                    ...done in 0.209195291 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:34
+                    nohup.out
+                    ...done in 0.225358875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:35
+                    nohup.out
+                    ...done in 0.201534625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:35
+                    nohup.out
+                    ...done in 0.217756375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:35
+                    nohup.out
+                    ...done in 0.194727417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:36
+                    nohup.out
+                    ...done in 0.219056208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:36
+                    nohup.out
+                    ...done in 0.229286 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:36
+                    nohup.out
+                    ...done in 0.211888875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:37
+                    nohup.out
+                    ...done in 0.217737959 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:37
+                    nohup.out
+                    ...done in 0.210614 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:37
+                    nohup.out
+                    ...done in 0.231024209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:38
+                    nohup.out
+                    ...done in 0.217473625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:38
+                    nohup.out
+                    ...done in 0.217953083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:38
+                    nohup.out
+                    ...done in 0.230115667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:39
+                    nohup.out
+                    ...done in 0.327003417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:39
+                    nohup.out
+                    ...done in 0.387572333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:39
+                    nohup.out
+                    ...done in 0.29406725 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:40
+                    nohup.out
+                    ...done in 0.232714209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:40
+                    nohup.out
+                    ...done in 0.229949041 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:41
+                    nohup.out
+                    ...done in 0.267144959 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:41
+                    nohup.out
+                    ...done in 0.367820583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:41
+                    nohup.out
+                    ...done in 0.286876209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:42
+                    nohup.out
+                    ...done in 0.266633541 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:42
+                    nohup.out
+                    ...done in 0.223141167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:42
+                    nohup.out
+                    ...done in 0.197124666 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:43
+                    nohup.out
+                    ...done in 0.249774334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:43
+                    nohup.out
+                    ...done in 0.200235375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:43
+                    nohup.out
+                    ...done in 0.20528625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:44
+                    nohup.out
+                    ...done in 0.222037625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:44
+                    nohup.out
+                    ...done in 0.193051042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:44
+                    nohup.out
+                    ...done in 0.204605542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:45
+                    nohup.out
+                    ...done in 0.196175833 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:45
+                    nohup.out
+                    ...done in 0.197714334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:45
+                    nohup.out
+                    ...done in 0.217619833 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:46
+                    nohup.out
+                    ...done in 0.223495334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:46
+                    nohup.out
+                    ...done in 0.195760791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:46
+                    nohup.out
+                    ...done in 0.197740792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:47
+                    nohup.out
+                    ...done in 0.202461791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:47
+                    nohup.out
+                    ...done in 0.206310083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:47
+                    nohup.out
+                    ...done in 0.213214041 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:47
+                    nohup.out
+                    ...done in 0.199240791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:48
+                    nohup.out
+                    ...done in 0.202027125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:48
+                    nohup.out
+                    ...done in 0.207169791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:48
+                    nohup.out
+                    ...done in 0.185225542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-17 18:32:49
+                    nohup.out
+Configuration file: /workspaces/thackmaster-blog/_config.yml
+            Source: /workspaces/thackmaster-blog
+       Destination: /workspaces/thackmaster-blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[31m             Error: could not read file /workspaces/thackmaster-blog/_posts/2025-12-02-apt-vs-dnf.md: Invalid date '': Document '_posts/2025-12-02-apt-vs-dnf.md' does not have a valid date in the YAML front matter.[0m
+[31m             ERROR: YOUR SITE COULD NOT BE BUILT:[0m
+[31m                    ------------------------------------[0m
+[31m                    Invalid date '': Document '_posts/2025-12-02-apt-vs-dnf.md' does not have a valid date in the YAML front matter.[0m
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:33:in `exit': exit (SystemExit)
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:33:in `rescue in process_site'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:27:in `process_site'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/commands/build.rb:65:in `build'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/commands/build.rb:36:in `process'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `each'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:85:in `block (2 levels) in init_with_program'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/exe/jekyll:15:in `<top (required)>'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `load'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `activate_and_load_bin_path'
+	from /usr/local/rvm/gems/default/bin/jekyll:25:in `<top (required)>'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli/exec.rb:59:in `load'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli/exec.rb:59:in `kernel_load'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli/exec.rb:23:in `run'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli.rb:451:in `exec'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor/command.rb:28:in `run'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor.rb:538:in `dispatch'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli.rb:35:in `dispatch'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor/base.rb:584:in `start'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli.rb:29:in `start'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/exe/bundle:28:in `block in <top (required)>'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/friendly_errors.rb:118:in `with_friendly_errors'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/exe/bundle:20:in `<top (required)>'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `load'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `activate_and_load_bin_path'
+	from /usr/local/rvm/gems/default/bin/bundle:25:in `<main>'
+/usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/utils.rb:134:in `rescue in parse_date': Invalid date '': Document '_posts/2025-12-02-apt-vs-dnf.md' does not have a valid date in the YAML front matter. (Jekyll::Errors::InvalidDateError)
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/utils.rb:130:in `parse_date'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/document.rb:470:in `merge_date!'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/document.rb:78:in `merge_data!'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/document.rb:487:in `read_content'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/document.rb:307:in `read'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/readers/post_reader.rb:39:in `each'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/readers/post_reader.rb:39:in `block in read_publishable'
+	from <internal:kernel>:90:in `tap'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/readers/post_reader.rb:39:in `read_publishable'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/readers/post_reader.rb:28:in `read_posts'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/reader.rb:91:in `retrieve_posts'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/reader.rb:76:in `read_directories'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/reader.rb:16:in `read'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/site.rb:181:in `read'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/site.rb:78:in `process'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:28:in `process_site'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/commands/build.rb:65:in `build'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/commands/build.rb:36:in `process'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `each'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:85:in `block (2 levels) in init_with_program'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/exe/jekyll:15:in `<top (required)>'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `load'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `activate_and_load_bin_path'
+	from /usr/local/rvm/gems/default/bin/jekyll:25:in `<top (required)>'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli/exec.rb:59:in `load'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli/exec.rb:59:in `kernel_load'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli/exec.rb:23:in `run'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli.rb:451:in `exec'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor/command.rb:28:in `run'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor.rb:538:in `dispatch'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli.rb:35:in `dispatch'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor/base.rb:584:in `start'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli.rb:29:in `start'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/exe/bundle:28:in `block in <top (required)>'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/friendly_errors.rb:118:in `with_friendly_errors'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/exe/bundle:20:in `<top (required)>'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `load'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `activate_and_load_bin_path'
+	from /usr/local/rvm/gems/default/bin/bundle:25:in `<main>'
+/usr/local/lib/ruby/3.3.0/time.rb:199:in `make_time': no time information in "" (ArgumentError)
+
+        raise ArgumentError, "no time information in #{date.inspect}"
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	from /usr/local/lib/ruby/3.3.0/time.rb:386:in `parse'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/utils.rb:132:in `parse_date'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/document.rb:470:in `merge_date!'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/document.rb:78:in `merge_data!'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/document.rb:487:in `read_content'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/document.rb:307:in `read'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/readers/post_reader.rb:39:in `each'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/readers/post_reader.rb:39:in `block in read_publishable'
+	from <internal:kernel>:90:in `tap'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/readers/post_reader.rb:39:in `read_publishable'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/readers/post_reader.rb:28:in `read_posts'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/reader.rb:91:in `retrieve_posts'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/reader.rb:76:in `read_directories'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/reader.rb:16:in `read'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/site.rb:181:in `read'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/site.rb:78:in `process'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:28:in `process_site'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/commands/build.rb:65:in `build'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/commands/build.rb:36:in `process'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `each'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:85:in `block (2 levels) in init_with_program'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from /usr/local/rvm/gems/default/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from /usr/local/rvm/gems/default/gems/jekyll-4.4.1/exe/jekyll:15:in `<top (required)>'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `load'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `activate_and_load_bin_path'
+	from /usr/local/rvm/gems/default/bin/jekyll:25:in `<top (required)>'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli/exec.rb:59:in `load'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli/exec.rb:59:in `kernel_load'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli/exec.rb:23:in `run'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli.rb:451:in `exec'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor/command.rb:28:in `run'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor.rb:538:in `dispatch'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli.rb:35:in `dispatch'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/vendor/thor/lib/thor/base.rb:584:in `start'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/cli.rb:29:in `start'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/exe/bundle:28:in `block in <top (required)>'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/lib/bundler/friendly_errors.rb:118:in `with_friendly_errors'
+	from /usr/local/rvm/gems/default/gems/bundler-2.7.1/exe/bundle:20:in `<top (required)>'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `load'
+	from /usr/local/lib/ruby/site_ruby/3.3.0/rubygems.rb:303:in `activate_and_load_bin_path'
+	from /usr/local/rvm/gems/default/bin/bundle:25:in `<main>'
+Configuration file: /workspaces/thackmaster-blog/_config.yml
+            Source: /workspaces/thackmaster-blog
+       Destination: /workspaces/thackmaster-blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 2.869 seconds.
+ Auto-regeneration: enabled for '/workspaces/thackmaster-blog'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:50
+                    nohup.out
+                    ...done in 0.928919917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:51
+                    nohup.out
+                    ...done in 0.491910166 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:52
+                    nohup.out
+                    ...done in 0.447984083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:52
+                    nohup.out
+                    ...done in 0.517234375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:53
+                    nohup.out
+                    ...done in 0.320719209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:53
+                    nohup.out
+                    ...done in 0.3592905 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:54
+                    nohup.out
+                    ...done in 0.257872501 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:54
+                    nohup.out
+                    ...done in 0.249040125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:55
+                    nohup.out
+                    ...done in 0.270307667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:55
+                    nohup.out
+                    ...done in 0.247756083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:55
+                    nohup.out
+                    ...done in 0.221810542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:56
+                    nohup.out
+                    ...done in 0.263965292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:56
+                    nohup.out
+                    ...done in 0.289304417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:56
+                    nohup.out
+                    ...done in 0.285024209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:57
+                    nohup.out
+                    ...done in 0.312862417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:57
+                    nohup.out
+                    ...done in 0.256775167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:58
+                    nohup.out
+                    ...done in 0.2670205 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:58
+                    nohup.out
+                    ...done in 0.248839167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:58
+                    nohup.out
+                    ...done in 0.241483916 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:59
+                    nohup.out
+                    ...done in 0.292421209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:59
+                    nohup.out
+                    ...done in 0.244161792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:57:59
+                    nohup.out
+                    ...done in 0.398020833 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:00
+                    nohup.out
+                    ...done in 0.316508084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:00
+                    nohup.out
+                    ...done in 0.281964625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:01
+                    nohup.out
+                    ...done in 0.251566459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:01
+                    nohup.out
+                    ...done in 0.225236791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:01
+                    nohup.out
+                    ...done in 0.356527667 seconds.
+                    
+      Regenerating: 3 file(s) changed at 2025-12-26 15:58:02
+                    nohup.out
+                    .ruby-lsp/last_updated
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.284653875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:02
+                    nohup.out
+                    ...done in 0.263993667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:03
+                    nohup.out
+                    ...done in 0.259344833 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:03
+                    nohup.out
+                    ...done in 0.308919292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:03
+                    nohup.out
+                    ...done in 0.273658875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:04
+                    nohup.out
+                    ...done in 0.253179459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:04
+                    nohup.out
+                    ...done in 0.319952958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:04
+                    nohup.out
+                    ...done in 0.280537625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:05
+                    nohup.out
+                    ...done in 0.256465944 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:05
+                    nohup.out
+                    ...done in 0.235186459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:06
+                    nohup.out
+                    ...done in 0.240974167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:06
+                    nohup.out
+                    ...done in 0.231191084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:06
+                    nohup.out
+                    ...done in 0.250577251 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:07
+                    nohup.out
+                    ...done in 0.589708542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:07
+                    nohup.out
+                    ...done in 0.318898625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:08
+                    nohup.out
+                    ...done in 0.29497125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:08
+                    nohup.out
+                    ...done in 0.237787625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:08
+                    nohup.out
+                    ...done in 0.266440417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:09
+                    nohup.out
+                    ...done in 0.229177958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:09
+                    nohup.out
+                    ...done in 0.213600292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:09
+                    nohup.out
+                    ...done in 0.228570958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:10
+                    nohup.out
+                    ...done in 0.304582251 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:10
+                    nohup.out
+                    ...done in 0.246870042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:11
+                    nohup.out
+                    ...done in 0.237826376 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:11
+                    nohup.out
+                    ...done in 0.22717325 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:11
+                    nohup.out
+                    ...done in 0.225109708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:12
+                    nohup.out
+                    ...done in 0.222394542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:12
+                    nohup.out
+                    ...done in 0.259301542 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-12-26 15:58:12
+                    nohup.out
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.28740975 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:13
+                    nohup.out
+                    ...done in 0.207544083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:13
+                    nohup.out
+                    ...done in 0.297416334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:13
+                    nohup.out
+                    ...done in 0.214050917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:14
+                    nohup.out
+                    ...done in 0.203619292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:14
+                    nohup.out
+                    ...done in 0.204259 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:14
+                    nohup.out
+                    ...done in 0.209939042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:15
+                    nohup.out
+                    ...done in 0.203221541 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:15
+                    nohup.out
+                    ...done in 0.200945959 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:15
+                    nohup.out
+                    ...done in 0.224208333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:16
+                    nohup.out
+                    ...done in 0.219393792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:16
+                    nohup.out
+                    ...done in 0.205191 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:16
+                    nohup.out
+                    ...done in 0.2444315 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:16
+                    nohup.out
+                    ...done in 0.20716975 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:17
+                    nohup.out
+                    ...done in 0.214691292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:17
+                    nohup.out
+                    ...done in 0.235641708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:17
+                    nohup.out
+                    ...done in 0.208487291 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:18
+                    nohup.out
+                    ...done in 0.214790584 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:18
+                    nohup.out
+                    ...done in 0.211045167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:18
+                    nohup.out
+                    ...done in 0.228370875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:19
+                    nohup.out
+                    ...done in 0.210485292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:19
+                    nohup.out
+                    ...done in 0.208438792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:19
+                    nohup.out
+                    ...done in 0.237955542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:20
+                    nohup.out
+                    ...done in 0.225025292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:20
+                    nohup.out
+                    ...done in 0.2164995 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:20
+                    nohup.out
+                    ...done in 0.225761542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:21
+                    nohup.out
+                    ...done in 0.21014075 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:21
+                    nohup.out
+                    ...done in 0.217059375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:21
+                    nohup.out
+                    ...done in 0.230760166 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:22
+                    nohup.out
+                    ...done in 0.216013959 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:22
+                    nohup.out
+                    ...done in 0.23911875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:22
+                    nohup.out
+                    ...done in 0.210426208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:23
+                    nohup.out
+                    ...done in 0.236292916 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:23
+                    nohup.out
+                    ...done in 0.226200167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:23
+                    nohup.out
+                    ...done in 0.240121167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:24
+                    nohup.out
+                    ...done in 0.235266791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:24
+                    nohup.out
+                    ...done in 0.207951708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:24
+                    nohup.out
+                    ...done in 0.21292325 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:25
+                    nohup.out
+                    ...done in 0.272525958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:25
+                    nohup.out
+                    ...done in 0.247301292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:25
+                    nohup.out
+                    ...done in 0.29613525 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:26
+                    nohup.out
+                    ...done in 0.233763708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:26
+                    nohup.out
+                    ...done in 0.214155584 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:26
+                    nohup.out
+                    ...done in 0.211495291 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:27
+                    nohup.out
+                    ...done in 0.220201084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:27
+                    nohup.out
+                    ...done in 0.250130916 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:27
+                    nohup.out
+                    ...done in 0.245602458 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:28
+                    nohup.out
+                    ...done in 0.258132167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:28
+                    nohup.out
+                    ...done in 0.232849792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:28
+                    nohup.out
+                    ...done in 0.203117333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:29
+                    nohup.out
+                    ...done in 0.210808167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:29
+                    nohup.out
+                    ...done in 0.212518958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:29
+                    nohup.out
+                    ...done in 0.228998917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:30
+                    nohup.out
+                    ...done in 0.212635333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:30
+                    nohup.out
+                    ...done in 0.208439292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:30
+                    nohup.out
+                    ...done in 0.226390833 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:31
+                    nohup.out
+                    ...done in 0.21260925 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:31
+                    nohup.out
+                    ...done in 0.229362 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:31
+                    nohup.out
+                    ...done in 0.210827375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:32
+                    nohup.out
+                    ...done in 0.208246125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:32
+                    nohup.out
+                    ...done in 0.227113167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:32
+                    nohup.out
+                    ...done in 0.205506333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:33
+                    nohup.out
+                    ...done in 0.207777583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:33
+                    nohup.out
+                    ...done in 0.205771125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:33
+                    nohup.out
+                    ...done in 0.217283666 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:34
+                    nohup.out
+                    ...done in 0.201284417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:34
+                    nohup.out
+                    ...done in 0.203491666 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:34
+                    nohup.out
+                    ...done in 0.228625917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:34
+                    nohup.out
+                    ...done in 0.205422625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:35
+                    nohup.out
+                    ...done in 0.205269791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:35
+                    nohup.out
+                    ...done in 0.208364402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:35
+                    nohup.out
+                    ...done in 0.217023375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:36
+                    nohup.out
+                    ...done in 0.212809708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:36
+                    nohup.out
+                    ...done in 0.213912083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:36
+                    nohup.out
+                    ...done in 0.209773584 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:37
+                    nohup.out
+                    ...done in 0.219989958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:37
+                    nohup.out
+                    ...done in 0.208144708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:37
+                    nohup.out
+                    ...done in 0.209392375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:38
+                    nohup.out
+                    ...done in 0.21980725 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:38
+                    nohup.out
+                    ...done in 0.237800334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:38
+                    nohup.out
+                    ...done in 0.222508083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:39
+                    nohup.out
+                    ...done in 0.214111875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:39
+                    nohup.out
+                    ...done in 0.210957333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:39
+                    nohup.out
+                    ...done in 0.246729667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:40
+                    nohup.out
+                    ...done in 0.225429209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:40
+                    nohup.out
+                    ...done in 0.250212126 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:40
+                    nohup.out
+                    ...done in 0.224408875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:41
+                    nohup.out
+                    ...done in 0.235612042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:41
+                    nohup.out
+                    ...done in 0.213423792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:41
+                    nohup.out
+                    ...done in 0.231411833 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:42
+                    nohup.out
+                    ...done in 0.241916208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:42
+                    nohup.out
+                    ...done in 0.214390251 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:42
+                    nohup.out
+                    ...done in 0.202889125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:43
+                    nohup.out
+                    ...done in 0.2037185 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:43
+                    nohup.out
+                    ...done in 0.206647208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:43
+                    nohup.out
+                    ...done in 0.2039185 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:43
+                    nohup.out
+                    ...done in 0.204891125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:44
+                    nohup.out
+                    ...done in 0.214210458 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:44
+                    nohup.out
+                    ...done in 0.20585975 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:44
+                    nohup.out
+                    ...done in 0.203598917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:45
+                    nohup.out
+                    ...done in 0.245998292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:45
+                    nohup.out
+                    ...done in 0.230625375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:45
+                    nohup.out
+                    ...done in 0.214749209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:46
+                    nohup.out
+                    ...done in 0.219797709 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:46
+                    nohup.out
+                    ...done in 0.213723792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:46
+                    nohup.out
+                    ...done in 0.209972583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:47
+                    nohup.out
+                    ...done in 0.225230084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:47
+                    nohup.out
+                    ...done in 0.22091 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:47
+                    nohup.out
+                    ...done in 0.246171333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:48
+                    nohup.out
+                    ...done in 0.223565875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:48
+                    nohup.out
+                    ...done in 0.212087916 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:48
+                    nohup.out
+                    ...done in 0.255436167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:49
+                    nohup.out
+                    ...done in 0.221795333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:49
+                    nohup.out
+                    ...done in 0.218548084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:49
+                    nohup.out
+                    ...done in 0.214315167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:50
+                    nohup.out
+                    ...done in 0.229371959 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:50
+                    nohup.out
+                    ...done in 0.224117917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:50
+                    nohup.out
+                    ...done in 0.226739333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:51
+                    nohup.out
+                    ...done in 0.218803542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:51
+                    nohup.out
+                    ...done in 0.249762042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:51
+                    nohup.out
+                    ...done in 0.210904208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:52
+                    nohup.out
+                    ...done in 0.213344458 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:52
+                    nohup.out
+                    ...done in 0.248484708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:52
+                    nohup.out
+                    ...done in 0.216456041 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:53
+                    nohup.out
+                    ...done in 0.2162435 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:53
+                    nohup.out
+                    ...done in 0.211841417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:53
+                    nohup.out
+                    ...done in 0.216055042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:54
+                    nohup.out
+                    ...done in 0.230708875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:54
+                    nohup.out
+                    ...done in 0.218576125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:54
+                    nohup.out
+                    ...done in 0.216593666 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:55
+                    nohup.out
+                    ...done in 0.216511875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:55
+                    nohup.out
+                    ...done in 0.222839542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:55
+                    nohup.out
+                    ...done in 0.232381334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:56
+                    nohup.out
+                    ...done in 0.21847575 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:56
+                    nohup.out
+                    ...done in 0.212420417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:56
+                    nohup.out
+                    ...done in 0.22400925 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:57
+                    nohup.out
+                    ...done in 0.218999875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:57
+                    nohup.out
+                    ...done in 0.212528167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:57
+                    nohup.out
+                    ...done in 0.214213583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:57
+                    nohup.out
+                    ...done in 0.246425209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:58
+                    nohup.out
+                    ...done in 0.21795225 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:58
+                    nohup.out
+                    ...done in 0.211772751 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:58
+                    nohup.out
+                    ...done in 0.246014208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:59
+                    nohup.out
+                    ...done in 0.236450209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:59
+                    nohup.out
+                    ...done in 0.24215625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:58:59
+                    nohup.out
+                    ...done in 0.224193292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:00
+                    nohup.out
+                    ...done in 0.221060708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:00
+                    nohup.out
+                    ...done in 0.220310209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:00
+                    nohup.out
+                    ...done in 0.282630333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:01
+                    nohup.out
+                    ...done in 0.224626876 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:01
+                    nohup.out
+                    ...done in 0.209719375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:01
+                    nohup.out
+                    ...done in 0.214189583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:02
+                    nohup.out
+                    ...done in 0.216918875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:02
+                    nohup.out
+                    ...done in 0.211984708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:02
+                    nohup.out
+                    ...done in 0.211003792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:03
+                    nohup.out
+                    ...done in 0.215519292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:03
+                    nohup.out
+                    ...done in 0.219772083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:03
+                    nohup.out
+                    ...done in 0.242008375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:04
+                    nohup.out
+                    ...done in 0.21544975 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:04
+                    nohup.out
+                    ...done in 0.253091 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:04
+                    nohup.out
+                    ...done in 0.217844917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:05
+                    nohup.out
+                    ...done in 0.213767833 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:05
+                    nohup.out
+                    ...done in 0.215788986 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:05
+                    nohup.out
+                    ...done in 0.217924041 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:06
+                    nohup.out
+                    ...done in 0.245213251 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:06
+                    nohup.out
+                    ...done in 0.229673292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:06
+                    nohup.out
+                    ...done in 0.229105167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:07
+                    nohup.out
+                    ...done in 0.267160084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:07
+                    nohup.out
+                    ...done in 0.213824042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:07
+                    nohup.out
+                    ...done in 0.226563542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:08
+                    nohup.out
+                    ...done in 0.268071125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:08
+                    nohup.out
+                    ...done in 0.240039583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:08
+                    nohup.out
+                    ...done in 0.217112208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:09
+                    nohup.out
+                    ...done in 0.241966916 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:09
+                    nohup.out
+                    ...done in 0.259172083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:09
+                    nohup.out
+                    ...done in 0.230534208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:10
+                    nohup.out
+                    ...done in 0.232111709 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:10
+                    nohup.out
+                    ...done in 0.241749042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:10
+                    nohup.out
+                    ...done in 0.210891917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:11
+                    nohup.out
+                    ...done in 0.211165083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:11
+                    nohup.out
+                    ...done in 0.261258042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:11
+                    nohup.out
+                    ...done in 0.232568083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:12
+                    nohup.out
+                    ...done in 0.220707125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:12
+                    nohup.out
+                    ...done in 0.227247083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:12
+                    nohup.out
+                    ...done in 0.21468325 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:13
+                    nohup.out
+                    ...done in 0.221283542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:13
+                    nohup.out
+                    ...done in 0.2371795 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:13
+                    nohup.out
+                    ...done in 0.256243334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:14
+                    nohup.out
+                    ...done in 0.222667209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:14
+                    nohup.out
+                    ...done in 0.212995083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:14
+                    nohup.out
+                    ...done in 0.2055385 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:15
+                    nohup.out
+                    ...done in 0.216353875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:15
+                    nohup.out
+                    ...done in 0.20933125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:15
+                    nohup.out
+                    ...done in 0.210874958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:16
+                    nohup.out
+                    ...done in 0.210809709 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:16
+                    nohup.out
+                    ...done in 0.215793084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:16
+                    nohup.out
+                    ...done in 0.222428542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:17
+                    nohup.out
+                    ...done in 0.217552041 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:17
+                    nohup.out
+                    ...done in 0.273446833 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:17
+                    nohup.out
+                    ...done in 0.23412675 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:18
+                    nohup.out
+                    ...done in 0.225503292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:18
+                    nohup.out
+                    ...done in 0.246495709 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:18
+                    nohup.out
+                    ...done in 0.229215542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:19
+                    nohup.out
+                    ...done in 0.229823625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:19
+                    nohup.out
+                    ...done in 0.209112 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:19
+                    nohup.out
+                    ...done in 0.21352975 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:20
+                    nohup.out
+                    ...done in 0.220702709 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:20
+                    nohup.out
+                    ...done in 0.207806292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:20
+                    nohup.out
+                    ...done in 0.229947125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:21
+                    nohup.out
+                    ...done in 0.236315625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:21
+                    nohup.out
+                    ...done in 0.226357084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:21
+                    nohup.out
+                    ...done in 0.26767775 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:22
+                    nohup.out
+                    ...done in 0.216360125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:22
+                    nohup.out
+                    ...done in 0.231443208 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:22
+                    nohup.out
+                    ...done in 0.21976825 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:23
+                    nohup.out
+                    ...done in 0.215061167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:23
+                    nohup.out
+                    ...done in 0.223303708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:23
+                    nohup.out
+                    ...done in 0.215044209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:24
+                    nohup.out
+                    ...done in 0.276467708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:24
+                    nohup.out
+                    ...done in 0.206737625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:24
+                    nohup.out
+                    ...done in 0.227550625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:25
+                    nohup.out
+                    ...done in 0.229883667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:25
+                    nohup.out
+                    ...done in 0.240667041 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:25
+                    nohup.out
+                    ...done in 0.223053959 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:26
+                    nohup.out
+                    ...done in 0.226592 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:26
+                    nohup.out
+                    ...done in 0.208902209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:26
+                    nohup.out
+                    ...done in 0.21201425 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:27
+                    nohup.out
+                    ...done in 0.247764625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:27
+                    nohup.out
+                    ...done in 0.235203459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:27
+                    nohup.out
+                    ...done in 0.249254542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:28
+                    nohup.out
+                    ...done in 0.225217291 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:28
+                    nohup.out
+                    ...done in 0.215475125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:28
+                    nohup.out
+                    ...done in 0.207138333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:29
+                    nohup.out
+                    ...done in 0.20766575 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:29
+                    nohup.out
+                    ...done in 0.220544166 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:29
+                    nohup.out
+                    ...done in 0.210859 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:30
+                    nohup.out
+                    ...done in 0.211367667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:30
+                    nohup.out
+                    ...done in 0.209887125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:30
+                    nohup.out
+                    ...done in 0.218827292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:31
+                    nohup.out
+                    ...done in 0.211974542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:31
+                    nohup.out
+                    ...done in 0.269882126 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:31
+                    nohup.out
+                    ...done in 0.275485083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:32
+                    nohup.out
+                    ...done in 0.212314459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:32
+                    nohup.out
+                    ...done in 0.33041375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:32
+                    nohup.out
+                    ...done in 0.2243795 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:33
+                    nohup.out
+                    ...done in 0.222461417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:33
+                    nohup.out
+                    ...done in 0.208576292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:33
+                    nohup.out
+                    ...done in 0.20893425 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:34
+                    nohup.out
+                    ...done in 0.222285708 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:34
+                    nohup.out
+                    ...done in 0.198786333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:34
+                    nohup.out
+                    ...done in 0.2011495 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:35
+                    nohup.out
+                    ...done in 0.211091667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:35
+                    nohup.out
+                    ...done in 0.265546986 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:35
+                    nohup.out
+                    ...done in 0.211072458 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:36
+                    nohup.out
+                    ...done in 0.214077917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:36
+                    nohup.out
+                    ...done in 0.207918167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:36
+                    nohup.out
+                    ...done in 0.206574042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:36
+                    nohup.out
+                    ...done in 0.254409042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:37
+                    nohup.out
+                    ...done in 0.217313375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:37
+                    nohup.out
+                    ...done in 0.238790167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:37
+                    nohup.out
+                    ...done in 0.216408958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:38
+                    nohup.out
+                    ...done in 0.224839833 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:38
+                    nohup.out
+                    ...done in 0.229230583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:38
+                    nohup.out
+                    ...done in 0.220812667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:39
+                    nohup.out
+                    ...done in 0.217153334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:39
+                    nohup.out
+                    ...done in 0.208626667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:39
+                    nohup.out
+                    ...done in 0.214854959 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:40
+                    nohup.out
+                    ...done in 0.209489083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:40
+                    nohup.out
+                    ...done in 0.206785042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:40
+                    nohup.out
+                    ...done in 0.237310583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:41
+                    nohup.out
+                    ...done in 0.25427075 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:41
+                    nohup.out
+                    ...done in 0.204863917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:41
+                    nohup.out
+                    ...done in 0.207973542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:42
+                    nohup.out
+                    ...done in 0.220598083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:42
+                    nohup.out
+                    ...done in 0.210363792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:42
+                    nohup.out
+                    ...done in 0.208712292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:43
+                    nohup.out
+                    ...done in 0.223870667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:43
+                    nohup.out
+                    ...done in 0.208053792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:43
+                    nohup.out
+                    ...done in 0.207821583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:44
+                    nohup.out
+                    ...done in 0.212017875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:44
+                    nohup.out
+                    ...done in 0.2287695 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:44
+                    nohup.out
+                    ...done in 0.219916791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:45
+                    nohup.out
+                    ...done in 0.212780416 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:45
+                    nohup.out
+                    ...done in 0.216061042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:45
+                    nohup.out
+                    ...done in 0.2217885 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:45
+                    nohup.out
+                    ...done in 0.214565958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:46
+                    nohup.out
+                    ...done in 0.211699916 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:46
+                    nohup.out
+                    ...done in 0.2178005 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-12-26 15:59:46
+                    nohup.out
+                    .devcontainer/devcontainer.json
+                    ...done in 0.212982292 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:47
+                    nohup.out
+                    ...done in 0.213937875 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:47
+                    nohup.out
+                    ...done in 0.275634458 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:47
+                    nohup.out
+                    ...done in 0.217640917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:48
+                    nohup.out
+                    ...done in 0.202843541 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:48
+                    nohup.out
+                    ...done in 0.205668333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:48
+                    nohup.out
+                    ...done in 0.215887083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:49
+                    nohup.out
+                    ...done in 0.237218917 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:49
+                    nohup.out
+                    ...done in 0.243369167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:49
+                    nohup.out
+                    ...done in 0.2204375 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:50
+                    nohup.out
+                    ...done in 0.237882959 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:50
+                    nohup.out
+                    ...done in 0.221035 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:50
+                    nohup.out
+                    ...done in 0.210243001 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:51
+                    nohup.out
+                    ...done in 0.222362209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:51
+                    nohup.out
+                    ...done in 0.209888501 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:51
+                    nohup.out
+                    ...done in 0.1981985 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:52
+                    nohup.out
+                    ...done in 0.204321125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:52
+                    nohup.out
+                    ...done in 0.206185792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:52
+                    nohup.out
+                    ...done in 0.244466625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:53
+                    nohup.out
+                    ...done in 0.215258958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:53
+                    nohup.out
+                    ...done in 0.209537333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:53
+                    nohup.out
+                    ...done in 0.231056 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:54
+                    nohup.out
+                    ...done in 0.234602959 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:54
+                    nohup.out
+                    ...done in 0.222768209 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:54
+                    nohup.out
+                    ...done in 0.206262167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:55
+                    nohup.out
+                    ...done in 0.211198584 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:55
+                    nohup.out
+                    ...done in 0.210193416 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:55
+                    nohup.out
+                    ...done in 0.204503459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:55
+                    nohup.out
+                    ...done in 0.2040345 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:56
+                    nohup.out
+                    ...done in 0.209068542 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-26 15:59:56
+                    nohup.out

@@ -4,12 +4,12 @@ description:
 author: thackmaster
 date: 2025-08-23
 last_modified_at: 2025-09-28
-categories: [Docker, Homelab]
+categories: [Docker, Homelab, Walkthrough]
 tags: [ansible, updates]
 media_subpath: /assets/img/update-docker-containers-with-ansible/
 image: 
   path: splash.jpeg
-  #https://images.unsplash.com/photo-1637778352878-f0b46d574a04
+  # https://images.unsplash.com/photo-1637778352878-f0b46d574a04
   alt: Image from Mohammad Rahmani (@afgprogrammer) via Unsplash
 ---
 

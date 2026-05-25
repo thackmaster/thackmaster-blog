@@ -4,7 +4,7 @@ description: Orchestration of your server updates has never been scarier (easier
 author: thackmaster
 date: 2025-07-20
 last_modified_at: 2025-08-23
-categories: [Homelab]
+categories: [Homelab, Walkthrough]
 tags: [automation, orchestration, ansible]
 media_subpath: /assets/img/getting-started-with-ansible/
 image:

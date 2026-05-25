@@ -4,7 +4,7 @@ description: Intune can be very repetative when it comes to keeping certain apps
 author: thackmaster
 date: 2025-04-25
 last_modified_at: 2025-08-23
-categories: [Microsoft]
+categories: [Microsoft, Walkthrough]
 tags: [intune, cloud computing]
 media_subpath: /assets/img/using-chocolatey-to-manage-endpoint-apps-with-intune/
 image:

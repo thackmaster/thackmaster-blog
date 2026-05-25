@@ -1,10 +1,10 @@
 ---
-title: How to upgrade Postgres
+title: How to upgrade a Postgres database
 description: Databases are scary. Updating them should be a straightfoward process. Here's the walkthrough in doing so.
 author: thackmaster
-date: 2025-11-12
+date: 2026-04-19 11:48
 last_modified_at:
-categories: []
+categories: [Walkthrough]
 tags: []
 media_subpath: /assets/img/how-to-upgrade-postgres/
 image:
@@ -96,7 +96,11 @@ This process is relatively simple *if* you know about the nice modules provided 
     ```
 
 ## Upgrade via dump and import
-This section assumes that your postgres user is named "postgres" and that it owns the database installation and its respective files. You may change this based on what your installation uses.
+This section assumes that:
+1. Your Postgres user is named "postgres",
+2. That your Postgres user owns the database installation <ins>and</ins> its respective files.
+
+You may change this based on what your installation uses.
 
 You may choose to execute either to execute the commands below as root or as the postgres user, when appropriate. Take note of the account you will be executing these commands from (root or postgres) and keep it consistent.
 

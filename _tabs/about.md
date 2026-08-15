@@ -22,7 +22,7 @@ My homelab isn't the most glamorous, but it gets the job done, which is ultimate
 - 1 Raspberry Pi 5B: 4GB RAM, 32GB SD Card
 - 1 Dell Optiplex 5050: Intel Core i5-7500 @ 3.4 GHz, 16GB RAM, 256GB SSD
 
-Almost everything in my homelab runs Debian with the exception of one of my HPs. It's running RedHat on a developer license at the moment. There are plans to test out Fedora server and Unraid at a future time.
+Everything in my lab runs Debian 13, with the exception of one of the HPs which runs Debian 12 (I haven't gotten around to updating it).
 
 ### Storage
 - Synology NAS DS920+
@@ -31,9 +31,8 @@ Almost everything in my homelab runs Debian with the exception of one of my HPs.
 Pretty much everything within the homelab is stored on my NAS with nightly backups to Backblaze B2.
 
 ### Networking
-- UniFi Dream Machine Special Edition
+- UniFi Dream Router
 - UniFi Switch - Standard PoE 24
-- UniFi U6 Mesh Wireless AP (just the one for now)
 - 2 UniFi Flex Mini's (desk and entertainment areas)
 
 ### Containers
@@ -41,22 +40,24 @@ Below is an extensive list of what I host within my homelab. This may not be 100
 
 - [Beszel](https://beszel.dev)
 - [Bookstack](https://bookstackapp.com)
-- [Cloudflared](https://hub.docker.com/r/cloudflare/cloudflared)
-- [Docmost](https://docmost.com)
+- [Caddy](https://caddyserver.com/)
+- [Caddy Docker Proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+- [DIUN](https://crazymax.dev/diun/)
 - [Fail2Ban](https://github.com/fail2ban/fail2ban)
 - [Gitea](https://gitea.com)
-- [Globalping](https://globalping.io)
+- [Gitea Runner](https://gitea.com/gitea/runner)
 - [Gluetun](https://github.com/qdm12/gluetun)
 - [HomeBox](https://homebox.software/en/)
-- [Immich](https://immich.app)
-- [Overseerr](https://overseerr.dev)
+- [LLDAP](https://lldap.com/)
+- [Planka](https://planka.app)
 - [Plex](https://plex.tv)
 - [Portainer](https://www.portainer.io)
 - [Prowlarr](https://prowlarr.com)
 - [qBittorrent](https://www.qbittorrent.org)
 - [Radarr](https://radarr.video)
 - [SABnzbd](https://sabnzbd.org)
+- [Seerr](https://seerr.dev)
+- [Smokeping](https://oss.oetiker.ch/smokeping/)
 - [Sonarr](https://sonarr.tv)
-- [Trilium](https://github.com/TriliumNext/Trilium)
 - [Tautulli](https://tautulli.com)
-- [Watchtower](https://containrrr.dev/watchtower/)
+- [TinyAuth](https://tinyauth.app/)

@@ -1,6 +1,10 @@
 ---
 ---
 
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
 /* prettier-ignore */
 @use 'main
 {%- if jekyll.environment == 'production' -%}
@@ -10,75 +14,89 @@
 
 /* append your custom style below */
 
-html,
-html:not([data-mode]) {
-  --link-color: #1e9000;
-  --link-underline-color: #2acb00;
-  --link-hover-color: #1a5c0b;
-  --toc-highlight: var(--link-color);
-  --btn-share-hover-color: var(--link-color);
-  --sidebar-hover-bg: #eeffe4;
-  --sidebar-active-color: var(--link-color);
-  --bs-nav-link-hover-color: var(--link-color);
+:root {
+  --link-color: #1e9000 !important;
+  --link-underline-color: #2acb00 !important;
+  --link-hover-color: #1a5c0b !important;
+  --toc-highlight: var(--link-color) !important;
+  --btn-share-hover-color: var(--link-color) !important;
+  --sidebar-hover-bg: #b4daaa !important;
 }
 
-html[data-mode='light'] {
-  --link-color: #1e9000;
-  --link-underline-color: #2acb00;
-  --link-hover-color: #1a5c0b;
-  --toc-highlight: var(--link-color);
-  --btn-share-hover-color: var(--link-color);
-  --sidebar-hover-bg: #eeffe4;
-  --sidebar-active-color: var(--link-color);
-  --bs-nav-link-hover-color: var(--link-color);
+.content a:not(.tag):not(.post-tag) {
+  color: var(--link-color) !important;
+  border-bottom-color: var(--link-underline-color) !important;
 }
 
-html[data-mode='dark'] {
-  --link-color: #1e9000;
-  --link-underline-color: #1b6d07;
-  --link-hover-color: #36e500;
-  --toc-highlight: #26b700;
-  --btn-share-hover-color: var(--link-color);
-  --sidebar-hover-bg: #eeffe4;
-  --sidebar-active-color: var(--link-color);
-  --bs-nav-link-hover-color: var(--link-color);
+a:not(.tag):not(.post-tag):hover,
+footer a:hover,
+.content a:not(.img-link):not(.post-tag):hover,
+#page-category a:hover,
+#page-tag a:not(.tag):not(.post-tag):hover,
+#search-results a:hover,
+#topbar #breadcrumb a:hover,
+#toc a:hover {
+  color: var(--link-hover-color) !important;
+  border-bottom-color: var(--link-underline-color) !important;
 }
+
+#tags a.tag,
+#tags a.tag:hover,
+#page-tag a,
+#page-tag a:hover,
+.post-tag,
+.post-tag:hover,
+.post-tag.no-text-decoration,
+.post-tag.no-text-decoration:hover {
+  border-color: var(--tag-border) !important;
+  border-bottom-color: var(--tag-border) !important;
+  text-decoration: none !important;
+}
+
+/*
+#toc a:hover {
+  color: #830e87 !important;
+}
+*/
 
 #toc-wrapper ul .is-active-link {
-  color: var(--toc-highlight) !important;
+  color: var(--link-color) !important;
+  border-bottom-color: transparent !important;
 }
 
-#sidebar a:hover {
-  color: var(--link-color);
+#toc-wrapper ul .is-active-link::before {
+  background-color: var(--link-color) !important;
 }
 
-.btn:hover {
-  &:not(#copy-link):not(#mode-toggle) {
-    background-color: #1e9000 !important;
-  }
+#access-lastmod .content {
+  color: gray !important;
 }
 
-.btn.btn-outline-primary {
-  &:not(.disabled):hover {
-    border-color: var(--link-color) !important;
-  }
+#access-lastmod a {
+  color: gray !important;
+  border-bottom-color: transparent !important;
 }
 
-#page-category a:hover,
-#page-tag a:hover,
-#access-lastmod a:hover,
-.post-tail-wrapper .license-wrapper > a:hover,
-#search-results a:hover,
-footer a:hover,
-#topbar #breadcrumb a:hover,
-.content a:not(.img-link):hover,
-.post-meta a:not([class]):hover,
-a.hover {
-  &:not(#back-to-top) {
-    color: var(--link-hover-color) !important;
-    text-decoration: none;
-    &:not(.tag):hover {
-      border-bottom-color: var(--link-underline-color) !important;
-    }
-  }
+#access-lastmod a:hover {
+  color: var(--link-hover-color) !important;
+  border-bottom: 1px solid var(--link-underline-color) !important;
+}
+
+#panel-wrapper .post-tag.btn.btn-outline-primary,
+#panel-wrapper .post-tag.btn.btn-outline-primary:hover,
+#panel-wrapper .post-tag.btn.btn-outline-primary:focus,
+#panel-wrapper .post-tag.btn.btn-outline-primary:active {
+  color: var(--link-color) !important;
+  border-color: var(--tag-border) !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+}
+
+#panel-wrapper .post-tag.btn.btn-outline-primary:hover,
+#panel-wrapper .post-tag.btn.btn-outline-primary:focus,
+#panel-wrapper .post-tag.btn.btn-outline-primary:active {
+  color: #fff !important;
+  background-color: var(--link-hover-color) !important;
+  border-color: var(--link-hover-color) !important;
 }
